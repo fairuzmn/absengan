@@ -1,5 +1,7 @@
 # Absen Gan
 
+[![N|Solid](https://raw.githubusercontent.com/fairuzmn/absengan/main/kai_white.png)](https://raw.githubusercontent.com/fairuzmn/absengan/main/kai_white.png)
+
 Absen Gan is a Chrome Extensions to force enable Presence & Conference button in [ETHOL](https://ethol.pens.ac.id)
 
 ## Requirements
