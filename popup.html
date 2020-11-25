@@ -1,0 +1,64 @@
+<!-- Cari apa om ?  -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        button {
+            display: inline-block;
+            margin-bottom: 0;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: middle;
+            cursor: pointer;
+            background-image: none;
+            border: 1px solid transparent;
+            white-space: nowrap;
+            padding: 6px 12px;
+            font-size: 14px;
+            line-height: 1.42857143;
+            border-radius: 4px;
+            user-select: none;
+            margin: 5px;
+        }
+
+        button:hover{
+            background-color: #1E7294;
+            color: white;
+        }
+
+        .main {
+            display: flex;
+        }
+
+        h4{
+            text-align: center;
+        }
+
+        #melu{
+            display: flex;
+            justify-content: center;
+        }
+        #melu a{
+            margin:5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h4>ETHOL FORCE ENABLE</h4>
+    </div>
+    <hr>
+    <div class="main">
+        <button id="presensi">Presensi</button>
+        <button id="conference">Conference</button>
+    </div>
+    <hr>
+    <div id="melu"></div>
+    <script src="popup.js" charset="UTF-8"></script>
+</body>
+</html>
