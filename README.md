@@ -23,7 +23,7 @@ This extensions need Google Chrome installed in your environement
 6. Click `Load Unpacked` and chose the folder of extracted content
 7. Enable Extensions
 
-or You can follow this step : [How To Install Unpacked Extension In Chrome](https://www.youtube.com/watch?v=oswjtLwCUqg)
+ or You can follow this step : [How To Install Unpacked Extension In Chrome](https://www.youtube.com/watch?v=oswjtLwCUqg)
 
 ## Tested On
 
