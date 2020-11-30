@@ -31,4 +31,6 @@ Windows 10 Pro v20H2 Build 19042.630 64-bit
 
 Google Chrome v87.0.4280.66 (Official Build) (64-bit)
 
+Note : Full Responsibility is Yours
+
     
